@@ -25,4 +25,4 @@ The analysis was conducted in a Jupyter Notebook using Python (`pandas`, `matplo
 
 ## Deliverables Included
 * `Task-03.ipynb` (Jupyter Notebook containing the full EDA code and visualizations)
-* Demonstration Video Link: `coming soon...`
+* Demonstration Video Link: `https://drive.google.com/file/d/1UUqmmXMpQooo2x__wzNDhuC4iChe1pZ4/view?usp=sharing`
